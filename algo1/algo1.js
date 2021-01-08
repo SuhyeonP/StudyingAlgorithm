@@ -39,7 +39,7 @@ function countIndex(num){
         if(digit >= num) {
             let m = i;//i를 변경하면 안되니까
             while(digit > num) {//digit이 num보다 작아지지않을때까지 반복
-                m = parseInt(m / 10);// todo 여기부터 공부하기 너무 피곤쓰 ㅠ
+                m = parseInt(m / 10);
                 --digit;
             }
             console.log(m % 10);
