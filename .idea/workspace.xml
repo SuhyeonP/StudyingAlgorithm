@@ -16,11 +16,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70473261-b3e3-40ed-882b-4555023f966c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/react-library/Next.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo1/basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/algo1/basic.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +42,42 @@
       </list>
     </option>
   </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="f" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1610420708" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="f" />
+                    <option name="lastUsedInstant" value="1610420704" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1mdpxtu74D3NJVgjtUO0yW6SrOV" />
   <component name="ProjectViewState">
@@ -50,6 +88,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,6 +118,11 @@
       <workItem from="1609918527980" duration="7660000" />
       <workItem from="1610022935502" duration="1985000" />
       <workItem from="1610071899311" duration="2093000" />
+      <workItem from="1610158913095" duration="80000" />
+      <workItem from="1610256165271" duration="596000" />
+      <workItem from="1610263920615" duration="278000" />
+      <workItem from="1610413797547" duration="595000" />
+      <workItem from="1610420649197" duration="947000" />
     </task>
     <servers />
   </component>
@@ -90,16 +134,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-760" y="-148" key="FileChooserDialogImpl" timestamp="1609906698297">
       <screen x="-1080" y="-843" width="1080" height="1880" />
     </state>
     <state x="-760" y="-148" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-843.1080.1880@-1080.-843.1080.1880" timestamp="1609906698297" />
+    <state x="-725" y="10" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610420669727">
+      <screen x="-1080" y="-843" width="1080" height="1880" />
+    </state>
+    <state x="-725" y="10" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1080.-843.1080.1880@-1080.-843.1080.1880" timestamp="1610420669727" />
+    <state x="112" y="3" width="785" height="1079" key="dock-window-1" timestamp="1610421032230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="112" y="3" width="785" height="1079" key="dock-window-1/0.0.1920.1040/-1080.-843.1080.1880@-1080.-843.1080.1880" timestamp="1610421032230" />
   </component>
 </project>
