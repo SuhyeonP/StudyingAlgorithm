@@ -2,7 +2,7 @@
 
 ####DOM:        
 DOM document object model 의 줄임말.
-DOM이란 트리구로 되어있는 객체모델로써        
+DOM이란 트리구조로 되어있는 객체모델로써        
 js의 getElementByID()같은 함를 이용해 HTML문서의 각 요소들을 접근하고 사용할 수 있는 <span style="color:red">객체 모델</span> 이다.      
 DOM은 트리구조 되어있어서 이해하기 쉽다는 장점이 있다.   
 구조덕분에 거대한 DOM트리에서는 속도이슈가 발생하였고, 지속적인 DOM업데이트는 잦은오류와 사용자 인터페이에 악영향을 미쳤다.      
