@@ -26,7 +26,7 @@
     plugins:[],
     output:{
         filename:'app.js', //이렇게 혹은 []로 감싸서 filename:'[name].js'로 해줘도 됨. 알아서 대괄호안에 이름이 들어감     
-        path:'./dist', //폴더경로인데 나중에 dist라는 폴더가 생기고 그 안에 app.js가 최종 결과물로 생김, dist같은거 이름 내맘대로 짓는거임!     
+        path:'./dist', //폴더경로인데 나중에 dist라는 폴더가 생기고 그 안에 app.js가 최종 결과물로 생김    
     },
 }
 </code></pre>

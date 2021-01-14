@@ -60,7 +60,7 @@
           let strike=0;
           let ball=0;
 
-          const answerArray=this.value.split('').map(v=>parseInt(v));
+          const answerArray=this.value.split('').map(v=>Number(v));
           for(let i=0;i<4;i++){
             if(answerArray[i]===this.answer[i]){
               strike++;
@@ -70,7 +70,7 @@
           }
           this.tries.push({
             try:this.value,
-            result:`${strike} strike, and ${ball}ball you are.`;
+            result:`${strike} strike, and ${ball}ball you are.`
           });
           this.value='';
           this.$refs.answer.focus()
@@ -80,3 +80,4 @@
   }
 </script>
 <style></style>
+//기존 html에 스크립트로 바로적던 Vue.component가 ~~.vue의 스크립트로 된다고 생각하면됨(webpack이용시)

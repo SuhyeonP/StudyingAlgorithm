@@ -26,7 +26,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70473261-b3e3-40ed-882b-4555023f966c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vue/webgame/howtoStart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/webgame/basicWebgame/gugudan.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/webgame/basicWebgame/gugudan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/webgame/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/webgame/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/webgame/nbb.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/webgame/nbb.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/webgame/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/webgame/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/webgame/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/webgame/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +93,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue/webgame/basicWebgame" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -98,6 +104,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Algorithm\vue\webgame\basicWebgame" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Algorithm\algo1" />
     </key>
@@ -124,7 +133,7 @@
       <workItem from="1610420649197" duration="4037000" />
       <workItem from="1610491060590" duration="1551000" />
       <workItem from="1610518429281" duration="34000" />
-      <workItem from="1610584967563" duration="2417000" />
+      <workItem from="1610584967563" duration="3700000" />
     </task>
     <servers />
   </component>
@@ -156,10 +165,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-760" y="-148" key="FileChooserDialogImpl" timestamp="1609906698297">
+    <state x="-760" y="-148" key="FileChooserDialogImpl" timestamp="1610587509304">
       <screen x="-1080" y="-843" width="1080" height="1880" />
     </state>
-    <state x="-760" y="-148" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-843.1080.1880@-1080.-843.1080.1880" timestamp="1609906698297" />
+    <state x="-760" y="-148" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-843.1080.1880@-1080.-843.1080.1880" timestamp="1610587509304" />
     <state x="-725" y="10" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610420669727">
       <screen x="-1080" y="-843" width="1080" height="1880" />
     </state>
