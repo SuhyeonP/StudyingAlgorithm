@@ -26,6 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70473261-b3e3-40ed-882b-4555023f966c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/webpack.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/webgame/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/webgame/nbb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/webgame/nbb.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/webgame/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,6 +128,8 @@
       <workItem from="1610413797547" duration="595000" />
       <workItem from="1610420649197" duration="4037000" />
       <workItem from="1610491060590" duration="1551000" />
+      <workItem from="1610518429281" duration="34000" />
+      <workItem from="1610584967563" duration="2050000" />
     </task>
     <servers />
   </component>
