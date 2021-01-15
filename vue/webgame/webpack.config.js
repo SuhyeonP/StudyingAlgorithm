@@ -3,9 +3,10 @@ const path=require('path');
 
 module.exports={
     mode:'development',
-    devtool:'eval',
+    devtool:'eval',//eval은 개발모드 hidden-source-map은 배포모드 라고 생각해면됨
     resolve:{
-        extensions:['.js','.vue'],
+        extensions:['.js','.vue'],//resolve의 extensions는 확장자 같은걸 처리해준다.
+        //이걸 이용하게 되면 main.js에서 import nbb에 잇는 확장자를 제거할수있음.
     },
     entry:{
         app:path.join(__dirname,'main.js'),
