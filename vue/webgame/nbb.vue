@@ -9,6 +9,7 @@
     <ul>
       <li v-for="t in tries" :key="t.try">
         <div>{{ t.try }}</div>
+        <!--key 횟수만큼 시도횟수-->
         <div>{{t.result}}</div>
       </li>
     </ul>
