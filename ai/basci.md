@@ -34,11 +34,14 @@
    여기서 Deep으로 쓰인 이유는 입력과 출력이 한줄로 연결된것이 아닌, 여러층(multiple layers)으로 구성되어있기 때문이다. 자율주행, 음성인식등 많은 부분에 활용되고있다. 
 
 
-## AutoEncoder    
-판별모델(discriminative model) & 생성모델(generative model)     
-:일반적인 기계학습은 판별모델(각각을 나누기 위해 선을 긋는다.)     
-:생성모델은 판별하는 것이 아니라 범위를 고려     
-<img src="https://image.slidesharecdn.com/variationalautoencoder-170601084514/95/variational-autoencoder-4-638.jpg?cb=1496306885"/>
+딥러닝은 자율/지도/강화 학습과 완벽히 분리되는 개념은 아니다. <br/>학습을 하는 방법에 있어서 여러층(multiple layers)를 구성하여 심도깊은(deep) 학습을 하는것을 지칭하고, 그 방식에 따라 자율학습(unsupervised learning)또는 지도학습(supervised learning)또는 강화학습(reinforcement learning)이 될 수 있다.     
+자율,지도,강화 학습은 특징에 따라 명확히 구분되는데,     
+자율학습은 주어진 데이터를 요약(summary)하여 설명해 주는 (descriptive)형식 이고, 
+지도학습은 주어진 데이터로부터 학습하여 새로운 데이터를 예측(predictive)하는 기법이고, 
+강화학습은 시행착오를 통해 학습된 방법으로 최적의 의사결정을 지시(prescriptive)하는 방법이라고 할수있다.      
+
+
+
 
 
 [기본 용어 및 정리](https://blog.naver.com/droneaje/222002679692)
