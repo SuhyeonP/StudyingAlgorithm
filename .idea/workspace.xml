@@ -26,8 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70473261-b3e3-40ed-882b-4555023f966c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/orien/next.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py/start.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +140,7 @@
       <workItem from="1610951538552" duration="199000" />
       <workItem from="1611015614891" duration="1395000" />
       <workItem from="1611025665901" duration="782000" />
-      <workItem from="1611052161504" duration="1428000" />
+      <workItem from="1611052161504" duration="2707000" />
     </task>
     <servers />
   </component>

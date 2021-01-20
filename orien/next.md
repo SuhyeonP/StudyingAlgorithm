@@ -4,7 +4,7 @@
 
 Server Side:최초에 Next서버로 요청이 들어왔을 때, Next서버에서는 요청이 들어온 페이지에 들어갈 데이터를 Fetch하고 Html을 구성하여 Client로 보내준다.    
 
-####_app.js와 _document.js      
+#### _app.js와 _document.js      
 최초로 실행되는건데, 사실 없어도 무방하다. Next자체에서 제공하는 로직으로 실행되기때문이다.    
 하지만, 항상 프로젝트를 진행하다보면 자체 제공 로직은 언젠가 커스텀하기에 커스텀을 위해 pages폴더에 각각 _app.js, _document.js파일을 생성하고 코드를 작성한다.
 
